@@ -2,7 +2,7 @@
     style="center"
      /> 
 
-#### This project used my assigned NLP project as a starting point to determine if I could improve the model. Resampling provided the greatest improvement in prediction while accuracy increased only 3%, the average F1 score increased 14%. 
+## This project used my assigned NLP project as a starting point to determine if I could improve the model. Resampling provided the greatest improvement in prediction while accuracy increased only 3%, the average F1 score increased 14%. 
 
 - Scraped 1K GitHub repositories with Harry Potter in the search
 - Filtered out those without a readme file or program language
